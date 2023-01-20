@@ -26,7 +26,6 @@ https://github.com/cossme/grinder
 	- Go to [**`http://localhost:6373`**](http://localhost:6373) in your browser for "Web Console" UI. 
 	- Go to **`Agents`** view and you have to see that 2 agents are running.
 	- Go back to the **`Results`** view and click run button for starting load tests. 
-		```mermaid
-		On first click you may get an error message about distributed files but ignore it and click the run button again.
-		```
+		- On first click you may get an error message about distributed files but ignore it and click the run button again.
+		
 	- You can check the test results and reports on the UI.
